@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">appTravelerBackpack</string>
+    <string name="name">Mochilão</string>
+    <string name="begin">Compartilhe sua experiência</string>
+    <string name="labelName">Digite seu nome</string>
+    <string name="labelType">Que tipo de lugar é este</string>
+    <string name="timeMonth">Até um mês atrás</string>
+    <string name="timeSemester">Até seis meses atrás</string>
+    <string name="timeYear">Há mais de um ano</string>
+    <string name="labelTime">Quando estive lá</string>
+    <string name="labelMessage">Conte sobre sua experiência</string>
+    <string name="submit">Compartilhar</string>
+    <string name="acceptane">Aceito os termos de compartilhamento</string>
+    <string name="btnShare">Compartilhar</string>
+    <string-array name="placeType">
+        <item>Praia</item>
+        <item>Cidade</item>
+        <item>Campo</item>
+        <item>Trilha</item>
+        <item>Parque</item>
+        <item>Outro</item>
+    </string-array>
+</resources>
